@@ -2,6 +2,7 @@
 
 * Model for assessing the local effective sound velocity within a bubble curtain
 * The APBCM bases on Bohne et al (2019) and Bohne et al (2020). When you use the model, please cite these references!
+* To use this model copy the ABFM and the PBPM into the folder.
 * Compatible with GNU Octave and Matlab
 
 
